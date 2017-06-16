@@ -1,0 +1,182 @@
+
+<!DOCTYPE html>
+<head>
+
+<title>Page Not Found</title>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+<script type="text/javascript" src="http://www.caddosheriff.org/_inc/combine.php?type=javascript&amp;files=jquery-latest-version.min.js,colorbox/jquery.colorbox-min.js"></script>
+
+<link type="text/css" rel="stylesheet" href="http://www.caddosheriff.org/_inc/combine.php?type=css&amp;files=style.css,icons.css,jquery.colorbox.css,calendar.css">
+
+</head>
+
+<body>
+
+<div class="menubar">
+	<ul id="menu">
+	<li><a href="http://www.caddosheriff.org/index.php" class="home">&nbsp;</a></li>
+	<li><a href="http://www.caddosheriff.org/content.php?c=55">Agency Departments</a><ul><li><a href="http://www.caddosheriff.org/content.php?c=55">Academy</a></li><li><a href="http://www.caddosheriff.org/content.php?c=76">ATV </a></li><li><a href="http://www.caddosheriff.org/content.php?c=58">Auxiliary</a></li><li><a href="http://www.caddosheriff.org/content.php?c=72">Caddo-Shreveport Narcotics </a></li><li><a href="http://www.caddosheriff.org/content.php?c=109">Civil</a></li><li><a href="http://www.caddosheriff.org/content.php?c=69">Communications</a></li><li><a href="http://www.caddosheriff.org/content.php?c=70">Criminal Investigations</a></li><li><a href="http://www.caddosheriff.org/content.php?c=68">Hazardous Material</a></li><li><a href="http://www.caddosheriff.org/content.php?c=111">Homeland Security</a></li><li><a href="http://www.caddosheriff.org/content.php?c=78">K-9 </a></li><li><a href="http://www.caddosheriff.org/content.php?c=64">Marine </a></li><li><a href="http://www.caddosheriff.org/content.php?c=65">Mounted Patrol</a></li><li><a href="http://www.caddosheriff.org/content.php?c=63">Patrol Division</a></li><li><a href="http://www.caddosheriff.org/content.php?c=67">Reserve </a></li><li><a href="http://www.caddosheriff.org/content.php?c=85">Stock Patrol</a></li><li><a href="http://www.caddosheriff.org/content.php?c=66">Traffic Safety Unit</a></li></ul></li><li class="bul">&nbsp;</li><li><a href="http://www.caddosheriff.org/content.php?c=38">Careers</a><ul><li><a href="http://www.caddosheriff.org/content.php?c=38">Application Process</a></li><li><a href="http://www.caddosheriff.org/content.php?c=39">Hiring Process</a></li><li><a href="http://www.caddosheriff.org/content.php?c=40">Qualifications</a></li><li><a href="http://www.caddosheriff.org/content.php?c=41">Disqualification Reasons</a></li><li><a href="http://www.caddosheriff.org/content.php?c=42">Salary</a></li><li><a href="http://www.caddosheriff.org/content.php?c=43">Benefits</a></li></ul></li><li class="bul">&nbsp;</li><li><a href="http://www.caddosheriff.org/content.php?c=83">Resources</a><ul><li><a href="http://www.caddosheriff.org/content.php?c=82">Report It!</a></li><li><a href="http://www.caddosheriff.org/content.php?c=73">Identity Theft</a></li><li><a href="http://www.caddosheriff.org/content.php?c=77">Internet Safety</a></li><li><a href="http://www.caddosheriff.org/content.php?c=112">Animal Safety Video</a></li><li><a href="http://www.caddosheriff.org/content.php?c=113">Litter Prevention  Video</a></li><li><a href="http://www.caddosheriff.org/content.php?c=98">Civil Live Scan</a></li><li><a href="http://www.caddosheriff.org/content.php?c=74">Incident Reports</a></li><li><a href="http://www.caddosheriff.org/content.php?c=56">Accident Reports</a></li><li><a href="http://www.caddosheriff.org/content.php?c=105">D.A.R.E.</a></li><li><a href="http://www.caddosheriff.org/content.php?c=83">S. O. S. Program</a></li><li><a href="http://www.caddosheriff.org/content.php?c=79">Lost Livestock</a></li><li><a href="http://www.caddosheriff.org/content.php?c=80">Patrol Request</a></li><li><a href="http://www.sheriffalerts.com/cap_main.php?office=54078" target="_blank()">Sex Offender Registry</a></li></ul></li><li class="bul">&nbsp;</li><li><a href="http://www.caddosheriff.org/content.php?c=59">Inmate & Jail Info</a><ul><li><a href="http://www.caddosheriff.org/inmates">Currently Housed Inmates</a></li><li><a href="http://www.caddosheriff.org/warrants">Active Warrants</a></li><li><a href="http://www.caddosheriff.org/content.php?c=59">Caddo Correctional Center</a></li><li><a href="http://www.caddosheriff.org/content.php?c=60">Visitation Rules</a></li><li><a href="http://www.caddosheriff.org/content.php?c=22">Directory</a></li><li><a href="http://www.caddosheriff.org/content.php?c=23">Visitation Schedule</a></li><li><a href="http://www.caddosheriff.org/content.php?c=24">Rules for Inmate Mail</a></li><li><a href="http://www.caddosheriff.org/content.php?c=115">Inmate Commissary/Tablet Accounts</a></li><li><a href="http://www.caddosheriff.org/content.php?c=116">Inmate Telephone Accounts</a></li></ul></li><li class="bul">&nbsp;</li><li><a href="http://www.caddosheriff.org/content.php?c=27">Victim Assistance</a><ul><li><a href="http://www.lcle.state.la.us/programs/cvr.asp#download" target="_blank()">Forms</a></li><li><a href="http://www.caddosheriff.org/content.php?c=27">Overview</a></li></ul></li><li class="bul">&nbsp;</li><li><a href="http://www.caddosheriff.org/content.php?c=33">Taxes</a><ul><li><a href="http://www.caddosheriff.org/content.php?c=114">Tax Sales</a></li><li><a href="http://mytax.eztaxonline.net/caddo/eescrow/faces/login.jsp" target="_blank()">Tax Pre-Payment Login</a></li><li><a href="http://mytax.eztaxonline.net/caddo/tax" target="_blank()">Make a Payment</a></li><li><a href="http://www.caddosheriff.org/content.php?c=32">Pre-Payment Program</a></li><li><a href="http://www.caddosheriff.org/content.php?c=33">Public Notice</a></li><li><a href="http://mytax.eztaxonline.net/caddo/tax/" target="_blank()">Account Information</a></li><li><a href="http://www.caddosheriff.org/content.php?c=35">Contact Information</a></li><li><a href="http://www.caddosheriff.org/content.php?c=37">FAQ</a></li></ul></li><li class="bul">&nbsp;</li><li><a href="http://www.caddosheriff.org/content.php?c=19">Community</a><ul><li><a href="http://www.caddosheriff.org/news.php">Press Releases</a></li><li><a href="http://www.caddosheriff.org/content.php?c=100">Camps & Classes</a></li><li><a href="http://www.caddosheriff.org/events.php">Event Calendar</a></li><li><a href="http://www.caddosheriff.org/content.php?c=19">Programs</a></li><li><a href="http://www.caddosheriff.org/content.php?c=92">CSO Phone Directory</a></li><li><a href="http://www.caddosheriff.org/contact-us.php">Contact Us</a>
+	</ul>
+</div>
+<div class="header">
+	
+	<div class="main">
+		
+		<div class="leftCol">
+			<div class="userInfo">
+						</div>
+		</div>
+		
+		<div class="rightCol">
+			<div class="searchbox">
+				<form name="form_search" id="form_search" method="get" action="search-results.php">
+				<input type="text" name="searchstr" id="searchstr" value="Search this site"/>
+				<input type="submit" name="searchbtn" id="searchbtn" value="Go" />
+				</form>			
+			</div>
+			<div class="slides"></div>
+			
+			
+			<div class="weather">
+						</div>
+		</div>
+		
+	</div>
+
+</div>
+<div class="content clearfix">
+	<div class="block">
+		
+			
+		<div class="col960">					
+			
+			<div class="contentbody">
+				<!--
+                <img src="/images/fife.png" align="left" style="padding:25px;">
+                <h1>Sit tight folks, Barney lost his bullet!</h1>			
+				-->
+                <h1>Page Not Found</h1>            
+				<p>Unfortunately the page that you are requesting has either moved or is missing. Please check the URL and try again.</p>
+				
+			</div>
+			
+		</div>
+
+	</div>
+</div>
+
+
+<div class="footer_images_container">
+	<ul class="footer_images_idx clearfix">
+		<li><img src="http://www.caddosheriff.org/images/footer/img1b.jpg" /></li>
+		<li><img src="http://www.caddosheriff.org/images/footer/img2b.jpg" /></li>
+		<li class="last"><img src="http://www.caddosheriff.org/images/footer/img3.jpg" /></li>
+	</ul>
+</div>
+
+<div class="footer">
+
+	<div class="footerContainer clearfix">
+	
+		<ul class="col">
+			<li><strong>Resources</strong></li>			
+			<li><a href="https://ticketpaymentonline.azurewebsites.net/Default.aspx?ca=CaddoSH" target="_blank">Ticket Payments</a></li>
+            <li><a href="https://courtpaymentonline.azurewebsites.net/Default.aspx?ca=CaddoSH" target="_blank">Court/Probation Payments</a></li>
+			<li><a href="http://mytax.eztaxonline.net/caddo/tax/faces/search.jsp" target="_blank">Pay Property Taxes</a></li>			<li><a href="/inmates">Current Inmates</a></li>
+			<li><a href="http://www.sheriffalerts.com/cap_main.php?office=54078" target="_blank">Sex Offender Registry</a></li>
+			<li><a href="http://www.caddosheriff.org/sales">Sheriff's Sale</a></li>
+			<li><a href="news.php">Press Releases</a></li>
+			<li><a href="/warrants">Warrants</a></li>
+			<li>&nbsp;</li>
+			<li><strong>Reports</strong></li>
+			<li><a href="http://www.caddosheriff.org/content.php?c=56">Accident Reports</a></li>
+			<li><a href="http://www.caddosheriff.org/content.php?c=74">Incident Reports</a></li>
+			<li><a href="http://www.caddosheriff.org/content.php?c=82">Report It!</a></li>
+			<li><a href="http://www.caddosheriff.org/_uploads/documents/adecadedefined.pdf" target="_blank">A Decade Defined 2001-2010</a></li>
+            <li><a href="http://www.caddosheriff.org/_uploads/documents/annualReport2014.pdf" target="_blank">2014 Annual Report</a></li>
+		</ul>
+		
+		<ul class="col">
+			<li><strong>Tips and Information</strong></li>
+			<li><a href="http://www.caddosheriff.org/content.php?c=77">Internet Safety</a></li>
+			<li><a href="http://www.caddosheriff.org/content.php?c=83">S. O. S. Program</a></li>
+			<li><a href="http://www.caddosheriff.org/content.php?c=73">Identity Theft</a></li>
+			<li><a href="http://www.caddosheriff.org/content.php?c=19">Programs</a></li>           
+            
+			<li>&nbsp;</li>
+			<li><strong>Programs</strong></li>
+			<li><a href="http://www.sheriffssafetytown.org/" target="_blank">Safety Town</a></li>
+			<li><a href="http://www.shreveportla.gov/index.aspx?NID=427" target="_blank">Crime Stoppers</a></li>
+			<li><a href="http://www.caddosheriff.org/content.php?c=105">D.A.R.E.</a></li>
+			<li><a href="http://www.caddosheriff.org/content.php?c=100">Camps & Classes</a></li>
+		</ul>
+		
+		<ul class="col">
+        	<li><strong>Videos</strong></li>
+            <li><a href="http://www.caddosheriff.org/content.php?c=112">Animal Safety Video</a></li>
+            <li><a href="http://www.caddosheriff.org/content.php?c=113">Litter Prevention  Video</a></li>
+            <li><a href="http://www.caddosheriff.org/news.php?c=1502">Bike Safety Video</a></li>
+            <li><a href="http://www.caddosheriff.org/news.php?c=1514">Scams Video</a></li>
+            <li><a href="http://www.caddosheriff.org/news.php?c=1522">Home Alone Video</a></li>
+            <li><a href="http://www.caddosheriff.org/news.php?c=1521">Victims Services Video</a></li>
+            <li><a href="http://www.caddosheriff.org/_uploads/documents/floodPresentation20161207.pdf" target="_blank">Flood Committee Presentation</a></li>           
+            <li>&nbsp;</li>
+			<li><strong>Communication</strong></li>
+			<li><a href="http://www.caddosheriff.org/contact-us.php">Contact Us</a></li>
+			<li><a href="http://www.caddosheriff.org/content.php?c=80">Patrol Request</a></li>
+						<li><a href="http://www.caddosheriff.org/events.php">Event Calendar</a></li>
+			<li><a href="http://local.nixle.com/register" target="_blank">Receive Safety Alert Texts</a></li>
+            <li><a href="http://www.ReportFraud.La" target="_blank">Report Fraud</a></li>
+		</ul>
+		
+		<ul class="col last">
+			<li><strong>Mailing Address</strong></li>
+			<li>Caddo Parish Sheriff's Office</li>
+			<li>501 Texas Street Room 101</li>
+			<li>Shreveport, LA 71101</li>
+			<li><a href="http://www.caddosheriff.org/contact-us.php">welcome@caddosheriff.org</a></li>
+			<li><a href="http://www.caddosheriff.org/content.php?c=92">CSO Phone Directory</a></li>
+			<li><a href="http://www.facebook.com/pages/Caddo-Parish-Sheriffs-Office/137558123002738" class="footerSocialMedia facebook" target="_blank" title="Find us on Facebook"><span>Find us on Facebook</span></a>
+            <a href="https://twitter.com/cpso" class="footerSocialMedia twitter" target="_blank" title="Follow us on Twitter"><span>Follow us on Twitter</span></a>
+            <a href="http://www.instagram.com/caddosheriff" class="footerSocialMedia instagram" target="_blank" title="Follow us on Instagram"><span>Follow us on Instagram</span></a></li>
+            
+			<li><a href="https://itunes.apple.com/us/app/caddo-parish-sheriffs-office/id854543657?mt=8&uo=6&at=&ct=" target="_blank"><img src="/images/appBtnItunes.png" /></a></li>
+			<li><a href="https://play.google.com/store/apps/details?id=com.app_sheriffcaddo.layout" target="_blank"><img alt="Get it on Google Play" src="/images/appBtnGoogle.png" /></a></li>
+	
+		</ul>
+			
+	
+	</div>
+
+</div>
+
+<script>
+$('#searchstr').focus(function() {
+  $('#searchstr').val('');
+});
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36146169-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+
+</html>
+
+<script type="text/javascript" charset="utf-8">
+
+$(document).ready(function(){
+	$(".print").colorbox({width:"85%", height:"85%", iframe:true});
+});
+
+</script>

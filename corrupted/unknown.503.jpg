@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html id="HtmlNode" lang="en-GB" data-ng-app="fg">
+    <head id="PageHeadElement">
+        <title>About the FlightGlobal Group | Blogs Announcement | flightglobal.com</title>
+        <meta name='viewport' content='width=device-width,initial-scale=1,maximum-scale=1'>
+        <link rel="icon" type="image/x-icon" href="/Content/Images/icons/favicon.ico" />
+        
+        <link rel="apple-touch-icon-precomposed" sizes="85x85" href="/Content/Images/icons/favicon-85.png">
+        <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/Content/Images/icons/favicon-180.png">
+        
+        <meta name="msapplication-TileColor" content="#FFFFFF">
+        <meta name="msapplication-TileImage" content="/Content/Images/icons/favicon-152.png">
+        
+        <meta name="msapplication-config" content="/Content/ieconfig.xml">
+        <link href="https://d3fod5fkpt74ph.cloudfront.net/assets/kendo/2015.2.624/kendo.common.min.css" rel="stylesheet" />
+        <link href="/content/bundle/CSS/flightglobal.com.css?v=f8OrqBlfZAVG_-bz_EkCnYDHj79fL8nGCZZdyeGTKFg1" rel="stylesheet"/>
+
+        
+        <script src="/Content/cookiepolicy/rbicookiepolicy.js"></script>
+        <script src="https://d3fod5fkpt74ph.cloudfront.net/assets/jquery/1.11.3/jquery.min.js"></script>
+        <script src="https://d3fod5fkpt74ph.cloudfront.net/assets/angularjs/1.2.26/angular.min.js"></script>
+        <!--[if lt IE 9]>
+    <link href="/content/bundle/css/ie8/flightglobal.com.css?v=eFpy582PKT_AlJl3hHmIWe7H3a3XIktYdEp1YUU1WSw1" rel="stylesheet"/>
+
+    <script type="text/javascript" src="/Content/Scripts/lib/html5shiv-printshiv.min.js"></script>
+    <script type="text/javascript" src="/Content/Scripts/lib/html5shiv.min.js"></script>
+    <script src="/content/bundle/js/ie8/flightglobal.com.js?v=HeNFiI_fd8OX7ZCsfJqTBrdD-zfDsq8rcES8OOajDQA1"></script>
+
+<![endif]-->
+<!--[if lt IE 10]>
+    <script src="https://d3fod5fkpt74ph.cloudfront.net/assets/pleaceholders/4.0.1/placeholders.min.js"></script> 
+<![endif]-->
+        <script src="https://d3fod5fkpt74ph.cloudfront.net/assets/kendo/2015.2.624/kendo.custom.06.07.2015.2.js"></script>
+        <script src="/content/bundle/js/flightglobal.com.js?v=ei1-tIWiMo75PxqZ3EvQVTKldeejC-B49Elbj-LOdk81"></script>
+
+        <meta id="Keywords" name="keywords" content="Flightglobal, Aviation,Aerospace,Airlines,Airports, Schedules, Fleets,News,Data,Jobs, Flight International, Airline Business, Ascend, Innovata, FlightBlogger, Runway Girl " />
+<meta id="Description" name="description" content="Flightglobal is the global aviation community’s primary source of news, data, insight, knowledge and expertise. We provide news, data, analytics and advisory services to connect the aviation community globally and help organisations shape their business strategies, identify new opportunities and make better decisions faster." />
+<meta id="Language" http-equiv="content-language" content="en-GB" />
+<meta id="Robots" name="robots" content="index, follow" />
+<meta id="GoogleBot" name="googlebot" content="unavailable_after: Fri, 31 Dec 9999 23:59:59 GMT" />
+<meta name="StaticLastModifiedDate" content="06/30/2016 16:54:16"/>
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@flightglobal" />
+<meta name="twitter:url" content="">
+<meta name="twitter:title" content="About the FlightGlobal Group | Blogs Announcement | flightglobal.com">
+<meta name="twitter:description" content="Flightglobal is the global aviation community’s primary source of news, data, insight, knowledge and expertise. We provide news, data, analytics and advisory services to connect the aviation community globally and help organisations shape their business strategies, identify new opportunities and make better decisions faster.">
+<meta property="og:type" content="website" />
+<meta property="og:title" content="About the FlightGlobal Group | Blogs Announcement | flightglobal.com" /> 
+<meta property="og:site_name" content="Flightglobal.com"/> 
+<meta property="og:url" content="" /> 
+<meta property="og:description" content="Flightglobal is the global aviation community’s primary source of news, data, insight, knowledge and expertise. We provide news, data, analytics and advisory services to connect the aviation community globally and help organisations shape their business strategies, identify new opportunities and make better decisions faster." />
+<script>
+    $('meta[property="og:url"]').attr('content', window.location.href);
+    $('meta[name="twitter:url"]').attr('content', window.location.href);
+</script>
+            <meta name="gwa_account" content="rbiuk-flightglobal"/>
+<meta name="gwa_siteSection1" content="fg.com"/>
+<meta name="gwa_siteSection2" content="about us"/>
+<meta name="gwa_siteSection3" content="blogs announcement"/>
+<meta name="gwa_pageName" content="fg.com|about us|blogs announcement|blogs announcement"/>
+<meta name="gwa_contentHierarchy" content="fg.com|about us|blogs announcement|blogs announcement"/>
+<meta name="gwa_contentTitle" content="blogs announcement"/>
+<meta name="gwa_contentType" content="about us"/>
+    <meta name="gwa_authStatus" content="logged out"/>
+    <meta name="gwa_customerType" content="free"/>
+    <meta name="gwa_personalisationEnableAudienceManager" content=""/>
+
+            <script src="//assets.adobedtm.com/c385f368d40a834f5504f8dbd3ad1d9292180d6d/satelliteLib-a8b78dd620c19384f1513470e1b6c2311844b8ed.js"></script>
+
+        
+<script type='text/javascript'>
+	(function() {
+	  var useSSL = 'https:' == document.location.protocol;
+	  var src = (useSSL ? 'https:' : 'http:') +
+	'//www.googletagservices.com/tag/js/gpt.js';
+	  document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+	  })();
+        var gptadslots=[];
+	var googletag = googletag || {};
+</script>
+
+<script type="text/javascript">
+	googletag.cmd.push(function() {
+		
+		var mapping1 = googletag.sizeMapping().
+		addSize([980,0], [[970,250], [970,90], [728,90]]).
+		addSize([750,0], [[728,90]]).
+		addSize([0,0], [[320,100], [320,50]]).
+		build();
+		
+		var mapping2 = googletag.sizeMapping().
+		addSize([0,0], [[300,600], [300,250], [160,600]]).
+		build();
+
+		var mapping3 = googletag.sizeMapping().
+		addSize([0,0], [[300,1]]).
+		build();
+
+		var mapping4 = googletag.sizeMapping().
+		addSize([0,0], [[300,600], [300,250], [160,600]]).
+		build();
+
+		//Adslot 1 declaration
+		googletag.defineSlot('/6831/FlightGlobal/banner', [[970,250]],'div-gpt-ad-249527336346462137-1').defineSizeMapping(mapping1).addService(googletag.pubads());
+
+		//Adslot 2 declaration
+		googletag.defineSlot('/6831/FlightGlobal/sidebar', [[300,600]],'div-gpt-ad-249527336346462137-2').defineSizeMapping(mapping2).addService(googletag.pubads());
+
+		//Adslot 3 declaration
+		googletag.defineSlot('/6831/FlightGlobal/mid-editorial', [[300,1]],'div-gpt-ad-249527336346462137-3').defineSizeMapping(mapping3).addService(googletag.pubads());
+
+		//Adslot 4 declaration
+		googletag.defineSlot('/6831/FlightGlobal/sidebar2', [[300,600]],'div-gpt-ad-249527336346462137-4').defineSizeMapping(mapping4).addService(googletag.pubads());
+
+
+googletag.defineOutOfPageSlot('/6831/FlightGlobal/outofpage', 'div-gpt-ad-249527336346462137-0-oop').addService(googletag.pubads()); 
+
+
+        googletag.pubads().enableSingleRequest();
+	googletag.pubads().setTargeting('Sec0', 'about us');
+googletag.pubads().setTargeting('Sec1', 'blogs announcement');
+googletag.pubads().setTargeting('UserLoginStatus', 'logged out');
+googletag.pubads().setTargeting('UserType', 'free');
+
+        googletag.pubads().enableSyncRendering();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+
+	});
+</script>
+
+        
+
+        
+        
+        <style>
+#FooterCol {
+border-right: 1px solid #ededed;
+height: 240px;
+}
+#FooterCol img {
+margin-bottom: 15px;
+}
+.CopyrightYear {
+font-style: oblique;
+}
+</style>
+
+<style>
+
+#PageTitle h1 {
+font-weight: 200;
+margin-left: 65px;
+margin-top: 30px;
+text-align: left;
+}
+#SiteInfoRight hr {
+border-top: 1px solid #555;
+clear: both;
+display: block;
+height: 1px;
+padding-top: 10px;
+width: 100%;
+}
+#SiteInfoRight ol {
+list-style-type: decimal;
+margin-left: 30px;
+text-align: left;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+#SiteInfoRight ul {
+list-style-type: decimal;
+margin-left: 30px;
+text-align: left;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+#SiteInfoLeft {
+display: block;
+float: left;
+width: 92%;
+}
+#SiteInfoLeft ul {
+border-top: 1px solid #555;
+display: table;
+float: left;
+list-style-type: none !important;
+margin-left: 65px;
+padding-top: 30px;
+width: 80%;
+}
+#SiteInfoLeft h2 {
+border-bottom: 1px solid #555;
+color: #381e59;
+font-weight: 200;
+margin-bottom: 20px;
+margin-left: 65px;
+margin-top: 21px;
+padding-bottom: 10px;
+text-align: left;
+}
+#SiteInfoLeft ul li a {
+border-bottom: 1px solid #d9d9d9;
+color: #555;
+display: block;
+padding: 12px 10px 10px;
+text-align: left;
+text-decoration: none;
+}
+#SiteInfoLeft ul li a:hover {
+background: none repeat scroll 0 0 #d9d9d9;
+color: #15b499;
+}
+.CurrentOption {
+background: none repeat scroll 0 0 #d9d9d9;
+border-bottom: 1px solid #d9d9d9;
+color: #15b499;
+display: block;
+padding: 12px 10px 10px;
+text-align: left;
+text-decoration: none;
+}
+#FullWidthTitle {
+display: none;
+}
+#SiteInfoRight {
+display: block;
+float: left;
+margin-bottom: 60px;
+margin-right: 30px;
+margin-top: -80px;
+padding-top: 30px;
+}
+#SiteInfoRight p {
+margin-bottom: 16px;
+text-align: left;
+}
+#SiteInfoBottom {
+display: none;
+}
+#PrintIcon {
+display: table;
+float: right;
+}
+#PrintIcon img {
+float: right;
+padding-bottom: 11px;
+position: relative;
+}
+@media screen and (max-width: 1024px) {
+#PageTitle h1 {
+margin-left: 10px;
+}
+#FullWidthTitle {
+display: block;
+}
+#SiteInfoRight {
+margin-left: 10px;
+margin-right: 10px;
+}
+#SiteInfoLeft {
+display: none;
+}
+#SiteInfoBottom {
+display: block;
+float: left;
+width: 100%;
+}
+#SiteInfoBottom ul {
+list-style-type: none !important;
+}
+#SiteInfoBottom h2 {
+border-bottom: 1px solid #d9d9d9;
+color: #381e59;
+font-weight: 200;
+margin-bottom: 20px;
+margin-left: 65px;
+margin-top: 21px;
+padding-bottom: 10px;
+text-align: left;
+}
+#SiteInfoBottom ul li a {
+border: 1px solid #d9d9d9;
+color: #555;
+display: block;
+float: left;
+margin-bottom: 1px;
+margin-right: 1px;
+padding: 12px 10px 10px;
+text-align: left;
+text-decoration: none;
+width: auto;
+}
+#SiteInfoBottom ul li a:hover {
+background: none repeat scroll 0 0 #d9d9d9;
+color: #15b499;
+}
+.CurrentOption {
+border: 1px solid #d9d9d9;
+display: table;
+float: left;
+margin-right: 2px;
+width: auto;
+}
+}
+@media screen and (max-width: 480px) {
+#SiteInfoBottom ul li a {
+margin-left: 1%;
+margin-right: 1%;
+margin-bottom: 0px;
+width: 98%;
+border-left: 0px solid #fff;
+border-right: 0px solid #fff;
+border-top: 0px solid #fff;
+}
+.CurrentOption {
+margin-left: 1%;
+margin-right: 1%;
+width: 98%;
+border-left: 0px solid #fff;
+border-right: 0px solid #fff;
+border-top: 0px solid #fff;
+}
+}
+</style>
+    </head>
+<body>
+    <header>
+        
+        <nav>
+    <section class="fgc-navigation">
+    <a href="/">
+            <img src="/Content/Images/logo-responsive.svg" onerror="this.src='/img/image.png';this.onerror=null;" class="fgc-logo" alt="FlightGlobal Pioneering Aviation Insight Logo" title="FlightGlobal Pioneering Aviation Insight" />
+        </a>
+        <ul class="fgc-navigation__menu">
+                <li class="fgc-navigation__menu__item  ">
+                    <a class="fgc-navigation__menu__item__header">News & Insight
+                        <div class="fgc-navigation__menu__item__underline"></div>
+                    </a>
+                        <ul class="fgc-navigation__sub-menu">
+                            <li><ul class="fgc-navigation__sub-menu__col-4">
+<li><a href="/news/">All News</a>
+<ul>
+<li><a title="Latest news from Flightglobal" href="/news/airlines/">Airlines</a></li>
+<li><a title="Finance news and analysis" href="/news/finance/">Finance</a></li>
+<li><a title="Fleet news and analysis" href="/news/fleets/">Fleets</a></li>
+<li><a title="MRO news and analysis" href="/news/Manufacturer-and-MRO/">Manufacturer &amp; MRO</a></li>
+<li><a title="Network and Schedule news and analysis" href="/news/networks/">Networks</a></li>
+<li><a title="Defence news and analysis" href="/news/defence/">Defence</a></li>
+<li><a title="Business aviation news and analysis" href="/news/business-and-general-aviation/">Business &amp; General Aviation</a></li>
+<li><a title="Helicopter news and analysis" href="/news/helicopters/">Helicopters</a></li>
+<li><a title="UAV news and analysis" href="/news/uavs/">UAVs</a></li>
+<li><a title="Space news and analysis" href="/news/space/">Space</a></li>
+</ul>
+<hr />
+<ul>
+<li><a title="Events, air shows and conferences" href="/events/">Events</a></li>
+<li><a title="Insight content from Flightglobal" href="/news/insight/">Insight</a></li>
+</ul>
+</li>
+</ul></li>
+                        </ul>
+                </li>
+                <li class="fgc-navigation__menu__item  ">
+                    <a class="fgc-navigation__menu__item__header">Products and Services
+                        <div class="fgc-navigation__menu__item__underline"></div>
+                    </a>
+                        <ul class="fgc-navigation__sub-menu">
+                            <li><ul class="fgc-navigation__sub-menu__col-3">
+<li></li>
+<li><a title="All Flightglobal Products" href="/products/">All Products</a>
+<ul>
+<li><a title="Flight Dashboard" href="/products/flightglobal-dashboard/">Flight Dashboard</a></li>
+<li><a title="Ascend Fleets" href="/products/ascend-fleets/">Ascend Fleets</a></li>
+<li><a title="Ascend Values" href="/products/ascend-values/">Ascend Values</a></li>
+<li><a title="ACAS" href="/products/acas/">ACAS</a></li>
+<li><a title="Connections File" href="/products/connections-file/">Connections File</a></li>
+<li><a title="Flight Fleets Analyzer" href="/products/fleets-analyzer/">Flight Fleets Analyzer</a>
+<ul class="fgc-navigation__sub-menu_level2">
+<li><a title="Deals" href="/products/deals-on-flight-fleets-analyzer/">Deals on Flight Fleets Analyzer</a></li>
+</ul>
+</li>
+<li><a title="FlightMaps" href="/products/flightmaps/">FlightMaps</a></li>
+<li><a title="Schedules" href="/products/schedules/">Schedules</a></li>
+<li><a title="SRS Analyser" href="/products/srs-analyser/">SRS Analyser</a></li>
+<li><a title="FlightMaps Analytics" href="/products/flightmaps-analytics/">FlightMaps Analytics</a></li>
+<li><a title="Flight Fleet Forecast" href="/products/fleets-forecast/">Flight Fleet Forecast</a></li>
+<li><a title="Flight Airline Business" href="/products/airline-business/">Flight Airline Business</a></li>
+<li><a title="Flight International" href="/products/flight-international/">Flight International</a></li>
+</ul>
+</li>
+</ul>
+<ul class="fgc-navigation__sub-menu__col-3">
+<li><a title="How Flightglobal products can support your sector" href="/sectors/">All Sectors</a>
+<ul>
+<ul>
+<li><a href="/sectors/air-finance/">Aviation Investors</a></li>
+<li><a href="/sectors/insurers/">Insurers</a></li>
+<li><a href="https://www.flightglobal.com/sectors/mro/">Aerospace</a></li>
+<li><a href="/sectors/air-travel/">Air travel</a></li>
+<li><a href="/sectors/cargo-operations/">Cargo Operations</a></li>
+</ul>
+</ul>
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></li>
+</ul>
+<ul class="fgc-navigation__sub-menu__col-3">
+<li><a title="Find out more about Flightglobal services" href="/services/">All Services</a>
+<ul>
+<li><a title="Consultancy solutions" href="/services/consultancy/">Consultancy</a></li>
+<li><a href="/services/data-feeds/">Data Feeds</a></li>
+<li><a href="/services/online-subscription-tools/">Online Subscription Tools</a></li>
+<li><a href="http://jobs.flightglobal.com/">Jobs</a></li>
+</ul>
+</li>
+</ul></li>
+                        </ul>
+                </li>
+                <li class="fgc-navigation__menu__item fgc-navigation__menu__item--active ">
+                    <a class="fgc-navigation__menu__item__header">About us
+                        <div class="fgc-navigation__menu__item__underline"></div>
+                    </a>
+                        <ul class="fgc-navigation__sub-menu">
+                            <li><ul class="fgc-navigation__sub-menu__col-5">
+<li><a title="About the Flightglobal Group" href="/about-us/">Who we are</a>
+<ul>
+<li><a href="/about-us/">About FlightGlobal</a></li>
+<li><a title="How we help your business" href="/about-us/how-we-help/">How We Help</a></li>
+<li><a title="Brands of Flightglobal" href="/about-us/flightglobal-brands/">FlightGlobal Brands</a></li>
+<li><a title="Advertising information" href="/advertise/">Advertising Information</a></li>
+</ul>
+</li>
+</ul></li>
+                        </ul>
+                </li>
+                <li class="fgc-navigation__menu__item  ">
+                    <a class="fgc-navigation__menu__item__header">Contact Us
+                        <div class="fgc-navigation__menu__item__underline"></div>
+                    </a>
+                        <ul class="fgc-navigation__sub-menu">
+                            <li><ul class="fgc-navigation__sub-menu__col-5">
+<li><a title="About the Flightglobal Group" href="/contact-us/">Contact us</a></li>
+</ul></li>
+                        </ul>
+                </li>
+            <li class="fgc-navigation__menu__item fgc-navigation__menu__item--search  ">
+                <a class="fgc-navigation__menu__item__header"><i class="fgc-navigation__search__icon"></i><span class="fgc-navigation__search__text">Search</span>
+                    <div class="fgc-navigation__menu__item__underline"></div>
+                </a>
+                <ul class="fgc-navigation__sub-menu fgc-navigation__sub-menu--search">
+                    <li class="fgc-navigation__sub-menu__col-1 fgc-navigation__search">
+                        <form method="GET" id="fgc-navigation-search-form" action="/search-results/">
+                            <input type="search" placeholder="Search for News" class="fg-txt-input fgc-navigation__search__input">
+                            <button class="btn btn--positive"><i class="fg-icon"><i class="fg-glyph fg-glyph--search"></i></i></button>
+                        </form>
+                    </li>
+                </ul>
+
+            </li>
+                <li class="fgc-navigation__menu__item fgc-navigation__menu__item--sign-in">
+                    <a class="fgc-navigation__menu__item__header fgc-navigation__menu__item__header--signin">Sign In / Register</a>
+                    <ul class="fgc-navigation__sub-menu fgc-navigation__sub-menu--signin">
+                        <li class="fgc-navigation__sub-menu__signin">
+<p><img style="max-width: 100%;" alt="Join a community" src="https://d3fod5fkpt74ph.cloudfront.net/abfaa8f3195744b8a3bf32299d2457f3/a8c1276ba1f24266aa9b8568c4b8ede9.jpg" /></p>                        </li>
+                        <li class="fgc-navigation__sub-menu__signin--iframe">
+                            <div class="fgc-navigation__sub-menu--signin__loading loader--sm" style="height: 504px"></div>
+                            <iframe data-login-src="https://login.flightglobal.com?compact=true" data-register-src="https://login.flightglobal.com/Register?compact=true" height="500" width="400" scrolling="no" seamless="seamless" frameborder="0" class="fgc-navigation__login"></iframe>
+                        </li>
+                    </ul>
+                </li>
+                <li class="fgc-navigation__menu__item fgc-navigation__menu__item--mobile">
+                    <a class="fgc-navigation__menu__item__header fgc-navigation__menu__item__header--signin">Sign In / Register</a>
+                    <ul class="fgc-navigation__sub-menu__signin">
+                    </ul>
+                </li>
+            <li class="fgc-navigation__menu__item fgc-navigation__menu__item--mobile">
+                <a class="fgc-navigation__menu__item__header"><i class="fg-glyph fg-glyph--hamburger"></i>
+                    <div class="fgc-navigation__menu__item__underline"></div>
+                </a>
+                <ul class="fgc-navigation__sub-menu fgc-navigation__sub-menu--mobile">
+                </ul>
+            </li>
+        </ul>
+    </section>
+    <script>fgc_navigation.initalise();</script>
+</nav>
+
+    </header>
+        <section class="fgc-layout fgc-layout--two-column">
+            
+<section>
+    <div><div><div>
+    <div class="fgc-text-block" style="background-color:; color:;">
+        <div id="PageTitle">
+<h1>Blogs Annoucement</h1>
+</div>
+    </div>
+</div>
+</div><div><div>
+    <div class="fgc-text-block" style="background-color:; color:;">
+        <div class="col-8">
+<div id="SiteInfoRight">
+<div id="PrintIcon"><a href="javascript:window.print()"><img alt="" src="https://d3fod5fkpt74ph.cloudfront.net/bf714407ed9041bda4faf8cc13348d0f/74d33125685b4a80a4d26dbf07527ff6.gif" /></a></div>
+<hr />
+<p>After much deliberation we have made the difficult decision to permanently close the FlightGlobal blogs.</p>
+<p>We are very proud of what we achieved with the blogs, from the excellent contributions of our talented FlightGlobal team to the great commentary and engagement of our loyal FlightGlobal audience.</p>
+<p>Things move on however and as more of our great content is delivered through flightglobal.com channels and our online subscription service FlightGlobal Dashboard, we haven’t been able to concentrate on these blogs as much as we would like.</p>
+<p>Some of the blogs will exist as an archive for a period of time but for latest updates in aviation please visit flightglobal.com. Alternatively, you can still reach FlightGlobal on <a title="Flightglobal on Twitter" href="https://twitter.com/flightglobal">Twitter</a>, <a title="Flightglobal on Facebook" href="https://www.facebook.com/flightglobal">Facebook</a>, <a title="Flightglobal on Linkedin" href="https://uk.linkedin.com/company/flightglobal">Linkedin</a> and <a title="Flightglobal on Google+" href="https://plus.google.com/+flightglobal">Google+</a>.</p>
+</div>
+</div>
+    </div>
+</div>
+</div></div>
+</section>
+<section class="fgc-layout--two-column_first-column">
+    
+</section>
+    <section class="fgc-layout--two-column_second-column">
+        
+    </section>   
+
+        </section>
+        <section class="fgc-layout">
+        </section>
+    <footer>
+    <section class="fgc-layout">
+        <div class="col-3 col-3-tablet-indent"><!-- Start Here -->
+<div id="FooterCol">
+<div class="branding">
+<div class="cobranding"><a href="http://www.reedbusiness.com/" target="_blank"><img alt="Part of RBI - logo" src="/Content/Images/rbi-logo.svg" /></a></div>
+<div class="social-links">
+<ul>
+<li class="social-links_1"><a href="https://www.facebook.com/flightglobal" target="_blank"><span class="visually-hidden">FlightGlobal on Facebook</span></a></li>
+<li class="social-links_2"><a href="https://twitter.com/flightglobal" target="_blank"><span class="visually-hidden">FlightGlobal on Twitter</span></a></li>
+<li class="social-links_3"><a href="https://www.linkedin.com/company/flightglobal" target="_blank"><span class="visually-hidden">FlightGlobal on LinkedIn</span></a></li>
+<li class="social-links_4"><a href="https://www.youtube.com/user/Flightglobal/" target="_blank"><span class="visually-hidden">FlightGlobal on YouTube</span></a></li>
+<li class="social-links_5"><a href="/contact-us/"><span class="visually-hidden">Contact FlightGlobal</span></a></li>
+</ul>
+</div>
+<div class="CopyrightYear"><span>Copyright
+<script type="text/javascript">// <![CDATA[
+document.write(new Date().getFullYear());
+// ]]></script>
+</span></div>
+</div>
+</div>
+</div>
+<!-- End Here -->
+<div class="col-3 fgc-layout__divider">
+<div id="FooterCol">
+<ul>
+<li><a title="About the Flightglobal Group" href="/about-us/">About us</a></li>
+<li><a href="/contact-us/">Contact us</a></li>
+<li><a title="Flightglobal Annoucements and Press Releases" href="/media-centre/">Media centre</a></li>
+<li><a title="Flightglobal's Event Coverage" href="/events/">Events</a></li>
+<li><a title="Frequently Asked Questions" href="/about-us/faqs/">FAQs</a></li>
+<li><a title="RSS feeds from Flightglobal.com" href="/rss-feeds/">RSS</a></li>
+</ul>
+</div>
+</div>
+<div class="col-3 fgc-layout__divider">
+<div id="FooterCol">
+<ul>
+<li><a title="Brands of Flighglobal" href="/about-us/flightglobal-brands/">FlightGlobal Brands</a></li>
+<li><a title="Flightglobal Innovata" href="/about-us/flightglobal-brands/">Innovata</a></li>
+<li><a title="Flight Ascend Consultancy" href="/services/consultancy/">Flight&nbsp;Ascend&nbsp;Consultancy</a></li>
+<li></li>
+&nbsp;
+<li><a title="Jobs at RBI" href="https://reedelsevier.taleo.net/careersection/13/moresearch.ftl" target="_blank">Jobs at RBI</a></li>
+</ul>
+</div>
+</div>
+<div class="col-3 fgc-layout__divider" style="position: relative;">
+<ul>
+<li><a title="Flightglobal Disclaimer" href="/disclaimer/">Disclaimer</a></li>
+<li><a title="Terms and conditions" href="/terms-and-conditions/">Terms and conditions</a></li>
+<li><a title="Privacy Policy" href="/privacy-policy/">Privacy and cookies</a></li>
+<li><a title="Advertise with Flightglobal" href="/advertise/">Advertise</a></li>
+<li><a title="Site Map" href="/sitemap/">Site map</a></li>
+</ul>
+<a href="http://www.relxgroup.com/Pages/Home.aspx" target="_blank"><img style="position: absolute; right: 20px;" alt="RELX Group - logo" src="/Content/Images/relx-logo.svg" /></a></div>
+    </section>
+</footer>
+    <script src="https://d3fod5fkpt74ph.cloudfront.net/assets/underscore/1.8.3/underscore-min.js"></script>
+    <script src="https://d3fod5fkpt74ph.cloudfront.net/assets/d3/3.5.6/d3.min.js"></script>
+    
+    <script src="/content/bundle/js/simpleApp.js?v=WJmyEAobTIL1UvlolFJRgxW4Vj4wEK0YUuNLqBhQz1I1"></script>
+
+    
+    <script>
+  (function(p,e,n,d,o){var v,w,x,y,z;o=p[d]=p[d]||{};o._q=[];
+  v=['initialize','identify','updateOptions','pageLoad'];for(w=0,x=v.length;w<x;++w)(function(m){
+  o[m]=o[m]||function(){o._q[m===v[0]?'unshift':'push']([m].concat([].slice.call(arguments,0)));};})(v[w]);
+  y=e.createElement(n);y.async=!0;y.src='https://cdn.pendo.io/agent/static/0f5ea539-869f-4cf3-50a3-b9e8fd8d98e2/pendo.js';
+  z=e.getElementsByTagName(n)[0];z.parentNode.insertBefore(y,z);})(window,document,'script','pendo');
+
+  // Call this whenever information about your visitors becomes available
+  // Please use Strings, Numbers, or Bools for value types.
+  pendo.initialize({
+    apiKey: '0f5ea539-869f-4cf3-50a3-b9e8fd8d98e2',
+
+    visitor: {
+      id:              $('meta[name="gwa_userID"]').attr('content')  // Required if user is logged in
+      // email:        // Optional
+      // role:         // Optional
+
+      // You can add any additional visitor level key-values here,
+      // as long as it's not one of the above reserved names.
+    },
+
+    account: {
+      // id:           'ACCOUNT-UNIQUE-ID' // Highly recommended
+      // name:         // Optional
+      // planLevel:    // Optional
+      // planPrice:    // Optional
+      // creationDate: // Optional
+
+      // You can add any additional account level key-values here,
+      // as long as it's not one of the above reserved names.
+    }
+  });
+ </script>
+
+<style>
+/* global cta button amends ns */
+.btn.transparent-light{color:#fff;background-color:transparent;border:1px solid #fff}
+.btn.transparent-dark{color:#999;background-color:transparent;border:1px solid #999}
+.btn-group{overflow:hidden;padding:1em}
+.btn.btn--positive-purple{background-color:#6A43B5;border:1px solid #542B82;color:#fff}
+.btn.btn--negative-purple{border:1px solid #542B82;background-color:transparent;color:#542B82}
+.btn.btn--positive-white{background-color:#fff;border:1px solid #ddd}
+.btn.btn--negative-white{border:1px solid #ddd;background-color:transparent;color:#ddd}
+.btn.large{font-size:110%}
+
+/* Testimonials by ns */
+.testimonial p.quote {text-align:left;color:#381e59;font-size:120%;line-height:140%;}
+.testimonial p.quoteby {text-align:left;color:#999999;font-size:80%;line-height:130%;}
+
+/* register/sign in area */
+.signin-register {padding:6em;background-color:#fff;background-image: url('https://d3fod5fkpt74ph.cloudfront.net/67305f4b2ab64bfb84b67c98ed2c97d0/b624da0f07ca48e9ace925787d646358.png'); background-repeat: no-repeat; overflow: hidden; height: 500px; width: 809px;background-position: 100% 100%;}
+.signin-register ul {margin:20px 0;}
+.signin-register li {background-image: url(https://d3fod5fkpt74ph.cloudfront.net/2de4a0b5c7274cad885aaafdb72e1432/ead83334849047acb1f863633bcd8aaf.png);background-repeat: no-repeat;padding-left: 30px;line-height: 24px;color:#381E59;margin:10px 0;}
+</style>
+    <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WWWMVN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WWWMVN');</script>
+<!-- End Google Tag Manager -->
+
+    
+    <script src="https://d3fod5fkpt74ph.cloudfront.net/assets/eloqua/1.0.0/fgEloqua.js"></script>
+    
+<script src="/content/bundle/js/layout.js?v=vxG7RDnMX5O5IOAh4MexBtxePeOlf3K9bzEA8h__76Q1"></script>
+    <script type="text/javascript">_satellite.pageBottom();</script>
+</body>
+</html>

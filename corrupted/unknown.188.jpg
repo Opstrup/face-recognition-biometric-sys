@@ -1,0 +1,254 @@
+<!doctype html>
+<html>
+<title>Buzznet - 404</title>
+<style>
+
+    @font-face {
+        font-family: 'sm-icons';
+        src:url('http://static.spinmedia.com/common/icon-font/sm-icons.eot');
+        src:url('http://static.spinmedia.com/common/icon-font/sm-icons.eot') format('embedded-opentype'),
+        url('http://static.spinmedia.com/common/icon-font/sm-icons.woff') format('woff'),
+        url('http://static.spinmedia.com/common/icon-font/sm-icons.ttf') format('truetype'),
+        url('http://static.spinmedia.com/common/assets/icon-font/sm-icons.svg') format('svg');
+        font-weight: normal;
+        font-style: normal;
+    }
+    /* latin */
+    @font-face {
+        font-family: 'Quicksand';
+        font-style: normal;
+        font-weight: 300;
+        src: local('Quicksand Light'), local('Quicksand-Light'), url(http://fonts.gstatic.com/s/quicksand/v5/qhfoJiLu10kFjChCCTvGlBampu5_7CjHW5spxoeN3Vs.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+    }
+    /* latin */
+    @font-face {
+        font-family: 'Quicksand';
+        font-style: normal;
+        font-weight: 400;
+        src: local('Quicksand Regular'), local('Quicksand-Regular'), url(http://fonts.gstatic.com/s/quicksand/v5/sKd0EMYPAh5PYCRKSryvW5Bw1xU1rKptJj_0jans920.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+    }
+    /* latin */
+    @font-face {
+        font-family: 'Quicksand';
+        font-style: normal;
+        font-weight: 700;
+        src: local('Quicksand Bold'), local('Quicksand-Bold'), url(http://fonts.gstatic.com/s/quicksand/v5/32nyIRHyCu6iqEka_hbKshampu5_7CjHW5spxoeN3Vs.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+    }
+
+    html {
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+    }
+
+    body {
+        margin: 0;
+    }
+
+    * {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    *:before, *:after {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    body {
+        font-size: 15px;
+        line-height: 1.42857143;
+        color: #333;
+        background-color: #fff;
+        font-family: Quicksand,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    }
+
+    h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+        font-weight: 400;
+        line-height: 1.1;
+        color: inherit;
+    }
+    
+    h1{
+        font-size: 40px;
+    }
+
+    h2, .h2 {
+        font-size: 30px;
+        letter-spacing:1.7px;
+        width: 95%;
+        margin: 0 auto;
+        padding-top:10px;
+    }
+    .navbar {
+        position: relative;
+        min-height: 30px;
+        margin-bottom: 21px;
+    }
+
+    .navbar-default {
+        background: #333;
+    }
+
+    #menu {
+        font-weight: 600;
+        height: 60px;
+    }
+    #menu > a{
+        text-align: center;
+    }
+    #menu > a > div {
+        display: block;
+        font-family: 'sm-icons';
+        font-size: 47px;
+        margin-right: auto;
+        margin-bottom: 0px;
+        margin-left: auto;
+        -webkit-font-smoothing: antialiased;
+        margin-right:66%;
+
+    }
+
+    #menu > a > div::after {
+        content: "\e613";
+        color: #fff;
+        margin-top:-2px;
+        position: absolute;
+        -webkit-font-smoothing: antialiased;
+        font-weight:normal;
+
+    }
+    .kim-bubble{
+        position: absolute;
+        top: 200px;
+        margin-left:240px;
+        font-size: 150%;
+        color: #333;
+        padding: 0 20px;
+        width: 55%;
+        line-height: 150%;
+        transform: translate(-50%, -50%);
+    }
+
+    .kim-number {
+        font-size: 6em;
+        font-weight: 600;
+    }
+    .kim-text {
+        margin-top: -80px;
+    }
+    @media screen and (max-width:900px) {
+        .kim-bubble{
+            margin-left: 23%;
+        }
+        .kim-number {
+            font-size:4em;
+        }
+
+        .kim-text {
+            margin-top: -57px;
+            font-size: 28px;
+        }
+    }
+    @media screen and (max-width:700px) {
+        .kim-bubble{
+            margin-left:23%;
+           top: 190px;
+
+        }
+        .kim-number {
+            font-size:3.5em;
+        }
+
+        .kim-text {
+            margin-top: -48px;
+            font-size: 20px;
+        }
+    }
+    @media screen and (max-width:600px) {
+        .kim-bubble{
+            margin-left:23%;
+            top: 176px;
+
+        }
+        .kim-number {
+            font-size:3em;
+        }
+
+        .kim-text {
+            margin-top: -40px;
+            font-size: 16px;
+        }
+    }
+    @media screen and (max-width:500px) {
+        .kim-bubble{
+            margin-left:23%;
+            top: 165px;
+            width:55%;
+
+        }
+        .kim-number {
+            font-size:2.5em;
+        }
+
+        .kim-text {
+            margin-top: -35px;
+            font-size: 14px;
+        }
+    }
+    @media screen and (max-width:400px) {
+        .kim-number {
+            font-size:1.8em;
+        }
+
+        .kim-text {
+            margin-top: -24px;
+        }
+    }
+
+    .image-container {
+        text-align:center;
+        padding-top:50px;
+        max-width: 100%;
+        height: auto;
+    }
+
+    .error-background img {
+        max-width: 100%;
+        height: auto;
+        padding-right: 8px;
+    }
+
+    .error-content h2 {
+        text-decoration:underline;
+    }
+
+    .error-content h2 a {
+        color: #333;
+    }
+
+</style>
+<body>
+<div id="menu" class="navbar navbar-default navbar-fixed-top" role="navigation">
+<a href="http://www.buzznet.com"><div id="logo"></div></a>
+</div>
+<div class="image-container">
+<div class="error-background">
+<span class="kim-bubble">
+<h1 class="kim-number">404</h1>
+<h3 class="kim-text">PAGE NOT FOUND</h3>
+</span>
+<img src="http://static.spinmedia.com/common/crying-kim-404-blank.jpg">
+</div>
+<div class="error-content">
+<h2>
+<a href="http://www.buzznet.com">TAKE ME HOME</a>
+</h2>
+</div>
+</div>
+</body>
+</html>

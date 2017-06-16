@@ -1,0 +1,417 @@
+
+<!-- saved from url=(0025)http://homepages.sapo.pt/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>SAPO::Páginas Pessoais</title>
+<!--<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />-->
+
+<link href="./index_files/hpgv3.css" rel="stylesheet" type="text/css">
+<link href="./index_files/hpgv2.css" rel="stylesheet" type="text/css">
+    <!-- Barra SAPO Universal v1.1 -->
+    <!-- Passo 1 de 3. Folha de estilos e TileID -->
+    <style type="text/css"> /* v1.0 */ 
+    .bsu_almofada {clear: both;margin-bottom: 1.4em;overflow: hidden;height: 1px;font-size: 16px;}
+    </style>
+    <script type="text/javascript">
+        var TileID = Math.floor(Math.random()*10000);
+    </script>
+    <!-- /bsu -->
+<script type="text/javascript" src="./index_files/CS.do"></script><script type="text/javascript" src="./index_files/ajs.php"></script><link rel="stylesheet" type="text/css" href="./index_files/bsu.css"></head>
+<body><div id="bsu_container" class="bsu_pt" style="display: none; min-width: auto;"><div class="bsu_assist"><p><a href="http://homepages.sapo.pt/#bsu_root">Saltar links iniciais</a></p></div><div id="bsu_filling_obj" class="bsu_filling bsu_loggedout" style="width: 960px;"><h2 class="bsu_pt"><a id="bsu_sapo_logo" class="bsu_sapo_logo" href="http://www.sapo.pt/"><span></span>SAPO</a></h2> <!--logotipo-->			<ul class="bsu_menu"><li><span class="bsu_assist">Serviços SAPO</span> <ul><!--menu de links-->
+	<li class="bsu_first"><a href="http://barrasapo.mredir.sapo.pt/blogs.sapo.pt?bsu">Blogs</a></li>
+	<li><a href="http://barrasapo.mredir.sapo.pt/www.sapo.pt/todo-o-sapo?bsu" title="Lista de Sites SAPO">Canais</a></li>
+	<li><a href="http://barrasapo.mredir.sapo.pt/classificados.sapo.pt?bsu">Classificados</a></li>
+	<li><a href="http://barrasapo.mredir.sapo.pt/fotos.sapo.pt?bsu">Fotos</a></li>
+	<li><a href="http://barrasapo.mredir.sapo.pt/mail.sapo.pt?bsu">Mail</a></li>
+	<li><a href="http://barrasapo.mredir.sapo.pt/mapas.sapo.pt?bsu">Mapas</a></li>
+	<li><a href="http://barrasapo.mredir.sapo.pt/pesquisa.sapo.pt?bsu">Pesquisa</a></li>
+	<li><a href="http://barrasapo.mredir.sapo.pt/videos.sapo.pt?bsu">Vídeos</a></li>
+	<li><a href="http://barrasapo.mredir.sapo.pt/noticias.sapo.pt?bsu">Notícias</a></li></ul></li>			</ul>        <div id="bsu_login_info"><ul><li class="bsu_login"><a title="Faça login" href="https://login.sapo.pt/?to=http%3A%2F%2Fhomepages.sapo.pt%2F">Login</a></li></ul></div><p id="bsu_launch_sos_sapo_p"><a id="bsu_launch_sos_sapo" href="http://sos.sapo.pt/?from=bsu&amp;url=http%3A//homepages.sapo.pt/" target="_blank" title="Dê feedback ou peça ajuda! (SOS.sapo.pt)">SOS</a></p></div><a href="http://m.sapo.pt/sapo" onclick="return bsu.tougleDashboard();" id="sapo_mobile_dashboard_link">SAPO</a></div>
+    <!-- Barra SAPO Universal v1.1 -->
+    <!-- Passo 2 de 3. Preparar espaco para receber a barra -->
+    <div id="bsu_root" class=" bsu_pubbed"><div class="bsu_almofada"></div><div class="bsu_almofada"></div></div>
+    <!-- /bsu -->
+
+<!--<script language="javascript" src="http://bars.sapo.pt/homepages2005.sapo.pt/barra.js"></script>-->
+<br>
+<center>
+
+
+ 
+
+
+<!-- FRONTEND hpg1 -->
+<table width="757" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+      <td width="191" class="MenuLateralEsquerdoBG_Center" valign="top"><!-- coluna_lateral_esquerda -->
+
+      <table width="191" border="0" cellspacing="0" cellpadding="0" class="Normal">
+        <tbody><tr>
+          <td class="MenuLateralEsquerdoBG_Left" width="1"></td>
+          <td class="MenuLateralEsquerdoBG_Center" width="189" height="105" valign="top"><!-- logo_sapo_foruns -->
+            <a href="http://homepages.sapo.pt/"><img border="0" src="./index_files/logo_sapopp.jpg" width="189" height="101" alt="Sapo Paginas Pessoais"></a>
+            <!-- /logo_sapo_foruns -->
+          </td>
+          <td class="MenuLateralEsquerdoBG_Right" width="1"></td>
+        </tr>
+        <tr>
+          <td class="MenuLateralEsquerdoBG_Left" width="1"></td>
+          <td class="MenuLateralEsquerdoBG_Center" width="189"><!-- menu_esquerdo -->
+            <table border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td height="22" width="188"><!-- menu_esquerdo_pesquisa -->
+                  <a href="http://homepages.sapo.pt/#" class="MenuEsquerdoTexto">
+                  <div class="MenuEsquerdo" onmouseout="this.className=&#39;MenuEsquerdo&#39;" onmouseover="this.className=&#39;MenuEsquerdo_hover&#39;">NOTÍCIAS</div>
+                  </a>
+                  <!-- /menu_esquerdo_pesquisa -->
+                </td>
+              </tr>
+              <tr>
+                <td height="22"><!-- menu_esquerdo_login -->
+                  <a href="http://homepages.sapo.pt/#" class="MenuEsquerdoTexto">
+                  <div class="MenuEsquerdo" onmouseout="this.className=&#39;MenuEsquerdo&#39;" onmouseover="this.className=&#39;MenuEsquerdo_hover&#39;">FORUM</div>
+                  </a>
+                  <!-- /menu_esquerdo_login -->
+                </td>
+              </tr>
+			  <!--
+              <tr>
+                <td height="22">
+                  <a href="top.php" class="MenuEsquerdoTexto">
+                  <div class="MenuEsquerdo" onmouseout="this.className='MenuEsquerdo'" onmouseover="this.className='MenuEsquerdo_hover'">TOP HOMEPAGES</div>
+                  </a>
+                </td>
+              </tr>
+			  -->
+              <tr>
+                <td height="22"><!-- menu_esquerdo_faq -->
+                  <!--<a href="wm_dir.php?cat=B" class="MenuEsquerdoTexto">-->
+                  <a href="http://homepages.sapo.pt/#" class="MenuEsquerdoTexto">
+                  <div class="MenuEsquerdo" onmouseout="this.className=&#39;MenuEsquerdo&#39;" onmouseover="this.className=&#39;MenuEsquerdo_hover&#39;">DIRECTÓRIO ÓPTIMA</div>
+                  </a>
+                  <!-- /menu_esquerdo_faq -->
+                </td>
+              </tr>
+              <tr>
+                <td height="22"><!-- menu_esquerdo_ajuda -->
+                  <a href="http://ajuda.sapo.pt/servicos.html?servico_id=8263" class="MenuEsquerdoTexto">
+                  <div class="MenuEsquerdo" onmouseout="this.className=&#39;MenuEsquerdo&#39;" onmouseover="this.className=&#39;MenuEsquerdo_hover&#39;">AJUDA</div>
+                  </a>
+                  <!-- /menu_esquerdo_faq -->
+                </td>
+              </tr>
+              <tr>
+                <td height="22"><!-- menu_esquerdo_regras -->
+                  <a href="http://blogs.sapo.pt/" class="MenuEsquerdoTexto">
+                  <div class="MenuEsquerdo" onmouseout="this.className=&#39;MenuEsquerdo&#39;" onmouseover="this.className=&#39;MenuEsquerdo_hover&#39;">BLOGS DO SAPO</div>
+                  </a>
+                  <!-- /menu_esquerdo_regras -->
+                </td>
+              </tr>
+            </tbody></table>
+            <!-- /menu_esquerdo -->
+          </td>
+          <td class="MenuLateralEsquerdoBG_Right" width="1"></td>
+        </tr>
+        <tr>
+          <td height="5" colspan="3"></td>
+        </tr>
+        <tr>
+          <td class="MenuLateralEsquerdoBG_Left"></td>
+          <td class="MenuLateralEsquerdoBG_Center" align="right" style="padding-right:2px;"><!--- pesquisa -->
+            <div class="MenuEsquerdoPesquisa">PESQUISAR HOMEPAGES</div>
+            <div id="Search" class="MenuEsquerdoPesquisaContent">
+              <table cellspacing="0" class="SearchTable">
+                <form name="FormPesquisa" method="get" action="http://pesquisa.sapo.pt/"></form>
+				<input type="hidden" name="t" value="1004">
+                  <tbody><tr>
+                    <td width="6"></td>
+                    <td height="22" valign="top"><input type="text" name="q" value="" class="SearchText"></td>
+                  </tr>
+                  <tr>
+                    <td></td>
+                    <td height="20" valign="bottom" align="right"><input type="image" src="./index_files/procurar.gif" width="79" height="16" alt="Pesquisar" name="Go" align="right"></td>
+                  </tr>
+                
+              </tbody></table>
+            </div>
+            <!--- /pesquisa -->
+          </td>
+          <td class="MenuLateralEsquerdoBG_Right" width="1"></td>
+        </tr>
+
+        <tr>
+          <td height="6" colspan="3"></td>
+        </tr>
+
+<!--
+        <tr>
+          <td class="MenuLateralEsquerdoBG_Left"></td>
+          <td class="MenuLateralEsquerdoBG_Center" align="right" style="padding-right:2px;">
+            <div class="MenuEsquerdoPesquisa">AJUDA</div>
+            <div id="MenuAjuda" class="MenuEsquerdoPesquisaContent">
+              <ul class="BulletList">
+                <li><span class="BulletListText"><a href="http://ajuda.sapo.pt/article/archive/13/">Ajuda</a></span></li>
+                <li><span class="BulletListText"><a href="oquee.php">O que &eacute;?</a></span></li>
+                <li><span class="BulletListText"><a href="http://pesquisa.sapo.pt/?t=1004">Pesquisa</a></span></li>
+                <li><span class="BulletListText"><a href="http://registo.sapo.pt/">Registo SAPO</a></span></li>
+              </ul>
+            </div>
+          </td>
+          <td class="MenuLateralEsquerdoBG_Right" width="1"></td>
+        </tr>
+-->
+
+
+		
+        <tr>
+          <td height="4" colspan="3"></td>
+        </tr>
+      </tbody></table>
+
+      <!-- /coluna_lateral_esquerda -->
+    </td>
+    <td width="6">&nbsp;</td>
+    <td valign="top" bgcolor="#FFFFFF"><!-- coluna_central -->
+      <table width="560" cellpadding="0" cellspacing="0" border="0">
+	  <!--
+        <tr>
+          <td colspan="3" height="6">
+        </tr>
+	  -->
+
+
+        <tbody><tr>
+          <td width="254" valign="top"><!-- editar_pagina -->
+            <table width="254" cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td class="ContentBoxLeftTop">EDITE A SUA PÁGINA</td>
+              </tr>
+              <tr>
+                <td class="ContentBoxBorderLeft" height="87"><div id="EditPage" class="EditPageText">
+                    <table cellpadding="0" cellspacing="0" border="0" align="center">
+
+					<form name="auth" action="http://homepages.sapo.pt/edit.php" method="post"></form>
+
+					   <tbody><tr>
+						  <td colspan="5"><table cellpadding="0" cellspacing="0" border="0">
+							<tbody><tr>
+								<td class="EditPageText">http://</td>
+								<td width="3"></td>
+								<td><input type="text" name="host" style="width: 71px; height:19px;"></td>
+								<td width="2"></td>
+								<td><select name="dominios" class="SearchSelectList" style="width:113px;">
+									<option value="com.sapo.pt">com.sapo.pt</option><option value="home.sapo.pt">home.sapo.pt</option><option value="do.sapo.pt">do.sapo.pt</option><option value="paginas.sapo.pt">paginas.sapo.pt</option><option value="no.sapo.pt">no.sapo.pt</option><option value="paginas.slbenfica.pt">paginas.slbenfica.pt</option><option value="paginas.sporting.pt">paginas.sporting.pt</option><option value="paginas.fcporto.pt">paginas.fcporto.pt</option>									</select>
+								</td>
+							</tr></tbody></table>
+						  </td>
+					    </tr>
+
+
+                        <tr>
+                          <td height="25" valign="middle" class="EditPageText">Password</td>
+                          <td width="5"></td>
+                          <td valign="middle"><input type="password" name="pass" class="SearchText" style="width: 91px; height: 17px;" value=""></td>
+                          <td width="1"></td>
+                          <td valign="middle"><input type="image" onclick="javascript:document.auth.submit();" src="./index_files/editar.gif" width="53" height="16"></td>
+						</tr>
+					
+
+
+                      <tr>
+                        <td colspan="4" height="23" class="EditPageText" valign="bottom"><a href="http://netbi.sapo.pt/recover_pwd_mgr.html" target="_blank">Recuperar password</a></td>
+                      </tr>
+                      <tr>
+                        <td colspan="4" height="23" class="EditPageText" valign="bottom"><a href="http://netbi.sapo.pt/logout.html?rs=http://homepages.sapo.pt/">Mudar de utilizador</a></td>
+                      </tr>
+                    </tbody></table>
+
+                  </div></td>
+              </tr>
+            </tbody></table>
+            </td>
+          <td width="6"></td>
+          <td width="300" valign="top"><table width="300" cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                <td class="ContentBoxRightTop">INFO</td>
+              </tr>
+              <tr>
+                <td class="ContentBoxBorderRight" height="87"><div class="ContentBoxRightText">O serviço de alojamento de páginas pessoais será encerrado em breve. Reproduzimos em baixo a mensagem enviada para todos os utilizadores.
+                  </div></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+        <tr>
+          <td colspan="3" height="6">
+<br>
+<h1>AVISO IMPORTANTE</h1>
+<h2>Encerramento</h2>
+<p>Tal como anunciado em Dezembro, o Serviço de Alojamento Gratuito de Páginas Pessoais do SAPO foi descontinuado.</p>
+<p></p>
+<p>Caso seja necessário algum esclarecimento adicional, pode contactar-nos para o gestao.homepages@mail.sapo.pt</p>
+		  </td>
+        </tr>
+		<!--
+        <tr>
+          <td valign="top"><table width="254" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td class="ContentBoxLeftTop">NOVOS BLOGS DO SAPO</td>
+              </tr>
+              <tr>
+                <td height="46" align="center" valign="middle"><img src="http://imgs.sapo.pt/gfx/379051.gif" border="0" ></td>
+              </tr>
+              <tr>
+                <td class="ContentBoxClosedBorderLeft" height="188"><div class="ContentBoxLeftText"><p>
+<p>
+Novo servi�o de Blogs do SAPO - Gr�tis.
+<p>
+Uma nova plataforma, com muito mais Templates, todos eles personaliz�veis, sem precisar de saber html, e sem complica��es. RSS, Tags, Notifica��es, Foto-Blogs, Baby-Blogs. A Blogosfera � dist�ncia de um clique.  <a href="http://blogs.sapo.pt" target="_blank"> Registe j� o seu Blog</a>
+<p>
+<br />
+                  </div></td>
+              </tr>
+            </table></td>
+          <td width="6"></td>
+          <td valign="top"><table width="300" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td colspan="3" height="6">
+        </tr>
+        <tr>
+          <td valign="top"><table width="254" cellpadding="0" cellspacing="0" border="0">
+			                <tr>
+                <td class="ContentBoxLeftTop">BookWorms</td>
+              </tr>
+              <tr>
+                <td class="ContentBoxBorderLeftBottomOnly" height="106"><div class="ContentBoxLeftText" valign="top">
+                    <table cellpadding="0" cellspacing="0" border="0">
+                      <tr>
+                        <td valign="top"><a href="noticia.php?id=912640"><img src="http://imgs.sapo.pt/gfx/466159.gif" width="74" height="74" class="ImageOrangeBorder" alt="Direct" /></a></td>
+                        <td width="6"></td>
+                        <td class="ContentBoxTextNoBorder" style="margin-top:8px;">Descubra novas leituras com este novo servi�o SAPO<br />
+                          <div id="SaberMais"><a href="noticia.php?id=912640">[mais]</a></div></td>
+                      </tr>
+                    </table>
+                  </div></td>
+              </tr>
+            </table></td>
+          <td width="6"></td>
+          <td valign="top"><table width="300" cellpadding="0" cellspacing="0" border="0">
+			                <tr>
+                <td class="ContentBoxRightTop">Casamento no SAPO</td>
+              </tr>
+              <tr>
+                <td class="ContentBoxBorderRightBottomOnly" height="106" valign="top"><div  class="ContentBoxRightText">
+                    <table cellpadding="0" cellspacing="0" border="0">
+                      <tr>
+                        <td valign="top"><a href="noticia.php?id=912639"><img src="http://imgs.sapo.pt/gfx/466160.gif" width="74" height="74" class="ImageOrangeBorder" /></a></td>
+                        <td width="6"></td>
+                        <td class="ContentBoxTextNoBorder">Organize o seu casamento. Encontre tudo o que procura para que o seu dia seja perfeito..<br />
+                          <div id="SaberMais"><a href="noticia.php?id=912639">[mais]</a></div></td>
+                      </tr>
+                    </table>
+                  </div></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td height="6"></td>
+        </tr>
+        <tr>
+          <td valign="top"><table width="254" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td class="ContentBoxLeftTop">ULTIMAS ACTUALIZA&Ccedil;&Otilde;ES</td>
+              </tr>
+              <tr>
+                <td class="ContentBoxBorderLeft" height="55" align="center" valign="middle"><table cellpadding="0" cellspacing="0" border="0">
+                    <form name="FormActualizacoes" method="post" action="">
+                      <tr>
+                        <td>
+							<select class="SearchSelectList" style="width:182px;" name="NAV_url" onChange="top.location.href=this.form.NAV_url.options[this.form.NAV_url.selectedIndex].value">
+                            <option value="">P�ginas</option
+<option value="http://ajpombo.no.sapo.pt">ajpombo.no.sapo.pt</option>
+<option value="http://bmsanguinhedo.com.sapo.pt">bmsanguinhedo.com.sapo.pt</option>
+<option value="http://catalogoavon.com.sapo.pt">catalogoavon.com.sapo.pt</option>
+<option value="http://cca.do.sapo.pt">cca.do.sapo.pt</option>
+<option value="http://ccdel.com.sapo.pt">ccdel.com.sapo.pt</option>
+<option value="http://copirc.no.sapo.pt">copirc.no.sapo.pt</option>
+<option value="http://corolaudate.home.sapo.pt">corolaudate.home.sapo.pt</option>
+<option value="http://culigasao7.no.sapo.pt">culigasao7.no.sapo.pt</option>
+<option value="http://ecastro.com.sapo.pt">ecastro.com.sapo.pt</option>
+<option value="http://fcsc.no.sapo.pt">fcsc.no.sapo.pt</option>
+<option value="http://festrela.com.sapo.pt">festrela.com.sapo.pt</option>
+<option value="http://guerracolonial.home.sapo.pt">guerracolonial.home.sapo.pt</option>
+<option value="http://hider.com.sapo.pt">hider.com.sapo.pt</option>
+<option value="http://jornaldetondela.com.sapo.pt">jornaldetondela.com.sapo.pt</option>
+<option value="http://jornalpraceta.no.sapo.pt">jornalpraceta.no.sapo.pt</option>
+<option value="http://mat11.no.sapo.pt">mat11.no.sapo.pt</option>
+<option value="http://teatroaparte.no.sapo.pt">teatroaparte.no.sapo.pt</option>
+                          </select></td>
+                        <td width="6"></td>
+                        <td><input onclick="javascript:top.location.href=this.form.NAV_url.options[this.form.NAV_url.selectedIndex].value" type="image" src="/imagens/harmony/ok.gif" width="30" height="16" border="0" /></td>
+                      </tr>
+                    </form>
+                  </table></td>
+              </tr>
+            </table></td>
+          <td width="6"></td>
+          <td valign="top">
+		  	<table width="300" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+					<td class="ContentBoxLeftTop">REPORTAR ABUSO</td>
+				</tr>
+				<tr>
+				    <td class="ContentBoxBorderLeft" valign="middle">
+					    <form name="ReportAbuse" method="post" action="reportabuse.php">
+						<table class="EditPageText">
+						<tr>
+						<td>URL a reportar:</td><td><input name="url" class="SearchText" style="width: 180; height: 17px;" value="" type="text"></td>
+						</tr>
+						<tr>
+						<td>O seu email:</td><td><input name="email" class="SearchText" style="width: 180; height: 17px;" value="" type="text"></td>
+						</tr>
+						<tr>
+						<td>Coment&aacute;rio:</td><td><textarea name="comentario" class="SearchText" style="width: 180; height: 100;">...</textarea></td>
+						</tr>
+						</table>
+					    <center><input onclick="javascript:document.ReportAbuse.submit();" src="/imagens/harmony/ok.gif" type="image" height="16" width="30"></center>
+						</form>
+					</td>
+				</tr>
+			</table>
+		  </td>
+        </tr>
+		-->
+      </tbody></table>
+      <!-- /coluna_central --></td>
+  </tr>
+</tbody></table>
+
+<table align="center"><tbody><tr><td><script src="./index_files/barra.js"></script><table cellspacing="2" cellpadding="2" border="0"><tbody><tr><td><a href="http://www.telecom.pt/" target="_blank"><img src="./index_files/pt.gif" alt="PT - http://www.telecom.pt" align="middle" border="0" hspace="10" vspace="10"></a></td><td class="PTCOM_FOOTER" align="left">Todos os direitos reservados<br>O SAPO é uma marca e um <a href="http://pesquisa.sapo.pt/" target="_top">motor de busca</a> criado na Universidade de Aveiro</td></tr></tbody></table></td></tr></tbody></table>
+
+    <!-- Barra SAPO Universal v1.1 -->
+    <!-- Passo 3 de 3. Adicionar a barra -->
+    <script type="text/javascript" src="./index_files/barra(1).js"></script>
+    <!-- /bsu -->
+
+
+<!--
+//--------------------------------------------------------------------------------------------------
+// SAPO WEB ANALYTICS SCRIPT
+//--------------------------------------------------------------------------------------------------
+-->
+<script type="text/javascript" src="./index_files/WebTracker.js"></script>
+<script type="text/javascript">
+site='ecad107988d87a9a';
+activeSite='2b4ba187d161dc22ba10b5329a214d70';
+if (window.Track) Track();
+</script>
+<!--
+//---------------------------------------------------------------------------------------------------
+-->
+
+
+</center></body></html>
