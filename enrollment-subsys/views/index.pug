@@ -11,14 +11,8 @@ block content
   Click on the Start WebCam button.
   <p>
    <button onclick="startWebcam();">Start WebCam</button>
-   <button onclick="stopWebcam();">Stop WebCam</button>
    <button onclick="snapshot();">Take Snapshot</button>
   </p>
   <video onclick="snapshot(this);" width=400 height=400 id="video" controls autoplay></video>
   <p>Screenshots : <p>
   <canvas  id="myCanvas" width="400" height="350"></canvas>
-
-  <form action="/api/traning/images" method="post" enctype="multipart/form-data">
-   <input type="file" name="filetoupload"><br>
-   <input type="submit">
-  </form>

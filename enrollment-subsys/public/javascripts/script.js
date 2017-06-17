@@ -50,10 +50,6 @@ function startWebcam() {
      console.log("getUserMedia not supported");
   }
 }
-
-function stopWebcam() {
-  webcamStream.stop();
-}
 //---------------------
 // TAKE A SNAPSHOT CODE
 //---------------------
@@ -75,13 +71,6 @@ function snapshot() {
   formData.append('filetoupload', canvas.toDataURL('image/png'));
 
   xhr = new XMLHttpRequest();
-  //xhr.addEventListener('load', doPhotoLoad );
   xhr.open('POST', '/api/traning/images', true );
-  //xhr.setRequestHeader( 'X-Client-ID', uuid );
   xhr.send(formData);
-
-  // var formElement = document.querySelector("form");
-  // var request = new XMLHttpRequest();
-  // request.open("POST", "/api/traning/images");
-  // request.send(new FormData(formElement));
 }
