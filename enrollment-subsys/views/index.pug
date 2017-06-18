@@ -5,14 +5,13 @@ block content
   h2= msg
   p Welcome to #{title}
   hr
-  a(href='/enrollment') Start enrollment
-
-  <h1>Take a snapshot of the current video stream</h1>
-  Click on the Start WebCam button.
+  a(href='/enrollment') Start enrollment <br> <br>
+  <p>Name: <input type="text" name="className" id="className"></p>
   <p>
    <button onclick="startWebcam();">Start WebCam</button>
    <button onclick="snapshot();">Take Snapshot</button>
   </p>
   <video onclick="snapshot(this);" width=400 height=400 id="video" controls autoplay></video>
   <p>Screenshots : <p>
+
   <canvas  id="myCanvas" width="400" height="350"></canvas>

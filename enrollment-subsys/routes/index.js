@@ -15,9 +15,15 @@ router.get('/enrollment', function(req, res, next) {
 router.post('/api/traning/images', function(req, res, next) {
   var form = new formidable.IncomingForm();
   form.parse(req, function (err, fields, files) {
-   var imgStr = fields.filetoupload.split(",")[1];
-   var newpath = __dirname + '/../images/' + 'training.1.jpg';
-   base64_decode(imgStr, newpath);
+
+   var classificationName = fields.classificationName;
+
+   // splitting encoded image from encoding msg type
+   fs.readdir(__dirname + '/../images/', function(err, files) {
+     var imgStr = fields.filetoupload.split(",")[1];
+     var newpath = __dirname + '/../images/' +  classificationName + '.' + files.length + '.jpg';
+     base64_decode(imgStr, newpath);
+   });
   });
   return res.end();
 });
