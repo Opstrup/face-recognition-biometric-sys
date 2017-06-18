@@ -14,63 +14,96 @@ var video;
 var webcamStream;
 
 function startWebcam() {
-  if (navigator.getUserMedia) {
-     navigator.getUserMedia (
+ if (navigator.getUserMedia) {
+  navigator.getUserMedia (
+   // constraints
+   {
+      video: true,
+      audio: false
+   },
 
-        // constraints
-        {
-           video: true,
-           audio: false
-        },
+   // successCallback
+   function(localMediaStream) {
+      video = document.querySelector('video');
+      video.src = window.URL.createObjectURL(localMediaStream);
+      webcamStream = localMediaStream;
+   },
 
-        // successCallback
-        function(localMediaStream) {
-           video = document.querySelector('video');
-           video.src = window.URL.createObjectURL(localMediaStream);
-           webcamStream = localMediaStream;
-        },
-
-        // errorCallback
-        function(err) {
-           console.log("The following error occured: " + err);
-        }
-     );
-  } else {
-     console.log("getUserMedia not supported");
-  }
+   // errorCallback
+   function(err) {
+      console.log("The following error occured: " + err);
+   }
+  );
+ } else {
+    console.log("getUserMedia not supported");
+ }
 }
 //---------------------
 // TAKE A SNAPSHOT CODE
 //---------------------
 var canvas, ctx;
+var maxPhotosToBackendPerExpression = 20;
+var instructions;
+
 
 function init() {
-  // Get the canvas and obtain a context for
-  // drawing in it
-  canvas = document.getElementById("myCanvas");
-  ctx = canvas.getContext('2d');
+ // Get the canvas and obtain a context for
+ // drawing in it
+ canvas = document.getElementById("myCanvas");
+ ctx = canvas.getContext('2d');
+ instructions = document.getElementById("instructions");
+ instructions.innerHTML = "Look into camera";
+ numbersOfPhotosLeft = document.getElementById("numers-of-photos-left");
+ numbersOfPhotosLeft.innerHTML = "0/" + maxPhotosToBackendPerExpression;
 }
 
-function snapshot() {
-   // Draws current image from the video element into the canvas
-  ctx.drawImage(video, 0,0, canvas.width, canvas.height);
+function startEnrollmentProcess() {
+ var expressions = ['front', 'right-eye-closed', 'left-eye-closed', 'open-mouth']
+ snapshotLoop(expressions[0]).then(function() {
+  instructions.innerHTML = "Close right eye";
+  numbersOfPhotosLeft.innerHTML = "0/" + maxPhotosToBackendPerExpression;
+  snapshotLoop(expressions[1]).then(function() {
+   instructions.innerHTML = "Close left eye";
+   numbersOfPhotosLeft.innerHTML = "0/" + maxPhotosToBackendPerExpression;
+   snapshotLoop(expressions[2]).then(function() {
+    instructions.innerHTML = "Open mouth";
+    numbersOfPhotosLeft.innerHTML = "0/" + maxPhotosToBackendPerExpression;
+    snapshotLoop(expressions[3]).then(function() {
+     console.log('all the images was sent!');
+    })
+   })
+  })
+ });
+}
 
-  // Create form and send it to backend
-  var formData = new FormData();
-  formData.append('classificationName', document.getElementById('className').value);
-  formData.append('filetoupload', canvas.toDataURL('image/png'));
+function snapshotLoop(expression) {
+ var i = 1;
+ var deferred = jQuery.Deferred();
+ var intervalFun = setInterval(function(){
+  if (i === maxPhotosToBackendPerExpression) {
+   clearInterval(intervalFun);
+   i = 1;
+   deferred.resolve();
+  }
+  postToBackend(expression);
+  numbersOfPhotosLeft.innerHTML = i + "/" + maxPhotosToBackendPerExpression;
+  i += 1;
+ }, 2000);
+ return deferred.promise();
+}
 
-  xhr = new XMLHttpRequest();
-  xhr.open('POST', '/api/traning/images', true );
-  xhr.send(formData);
+function postToBackend(expression) {
+ // Draws current image from the video element into the canvas
+ ctx.drawImage(video, 0,0, canvas.width, canvas.height);
 
-  var i = 0
-  setInterval(function(){
-   console.log('this is an interval function', i);
-   if (i === 20) {
-    clearInterval();
-    i = 0;
-   }
-   i += 1;
-  }, 2000);
+ // Create form and send it to backend
+ var formData = new FormData();
+
+ formData.append('dataSubjectName', document.getElementById('className').value);
+ formData.append('filetoupload', canvas.toDataURL('image/png'));
+ formData.append('expression', expression);
+
+ xhr = new XMLHttpRequest();
+ xhr.open('POST', '/api/traning/images', true );
+ xhr.send(formData);
 }

@@ -2,15 +2,15 @@ extends layout
 
 block content
   h1= title
-  h2= msg
-  p Welcome to #{title}
+  p Welcome to the #{title}
   hr
-  a(href='/enrollment') Start enrollment <br> <br>
   <p>Name: <input type="text" name="className" id="className"></p>
   <p>
    <button onclick="startWebcam();">Start WebCam</button>
-   <button onclick="snapshot();">Take Snapshot</button>
+   <button onclick="startEnrollmentProcess();">Take Enrollment Pictures</button>
   </p>
+  <h1 id="instructions"></h1>
+  <h2 id="numers-of-photos-left"><h2>
   <video onclick="snapshot(this);" width=400 height=400 id="video" controls autoplay></video>
   <p>Screenshots : <p>
 
