@@ -1,2 +1,5 @@
 node_modules
 enrollment-subsys/node_modules
+enrollment-subsys/images/
+package-lock.json
+.ipynb_checkpoints/*
