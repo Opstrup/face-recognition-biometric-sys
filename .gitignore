@@ -3,3 +3,6 @@ enrollment-subsys/node_modules
 enrollment-subsys/images/
 package-lock.json
 .ipynb_checkpoints/*
+training-imgs
+training-imgs/*
+*.npy
