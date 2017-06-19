@@ -42,7 +42,10 @@ function startWebcam() {
 // TAKE A SNAPSHOT CODE
 //---------------------
 var canvas, ctx;
-var maxPhotosToBackendPerExpression = 20;
+// Training images
+//var maxPhotosToBackendPerExpression = 1000;
+// Test images
+var maxPhotosToBackendPerExpression = 400;
 var instructions;
 
 
@@ -88,7 +91,7 @@ function snapshotLoop(expression) {
   postToBackend(expression);
   numbersOfPhotosLeft.innerHTML = i + "/" + maxPhotosToBackendPerExpression;
   i += 1;
- }, 2000);
+ }, 200);
  return deferred.promise();
 }
 

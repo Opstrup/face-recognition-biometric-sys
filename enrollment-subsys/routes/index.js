@@ -22,8 +22,19 @@ router.post('/api/traning/images', function(req, res, next) {
    // splitting encoded image from encoding msg type
    fs.readdir(__dirname + '/../images/', function(err, files) {
      var imgStr = fields.filetoupload.split(",")[1];
-     var newpath = __dirname + '/../images/' +  dataSubjectName + '-' + expression + '.' + files.length + '.jpg';
+     // training images
+     //var newpath = __dirname + '/../images/' +  dataSubjectName + '-' + expression + '.' + files.length + '.jpg';
+     // test images
+     var newpath = __dirname + '/../images/' + files.length + '.jpg';
      base64_decode(imgStr, newpath);
+     // training images
+     // fs.appendFile(__dirname + '/../images/' + "training_images_links", 'https://u2608706.dl.dropboxusercontent.com/u/2608706/traning_images/'+ dataSubjectName + '-' + expression + '.' + files.length + '.jpg\n', function(err){
+     //  if (err) throw err;
+     // });
+     // test images
+     fs.appendFile(__dirname + '/../images/' + "test_images_links", 'https://u2608706.dl.dropboxusercontent.com/u/2608706/test_images/'+ files.length + '.jpg\n', function(err){
+      if (err) throw err;
+     });
    });
   });
   return res.end();
