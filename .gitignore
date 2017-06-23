@@ -1,4 +1,8 @@
 node_modules
+test-imgs/*
+*.pb.*
+checkpoint
+augmentation-test
 log/*
 enrollment-subsys/node_modules
 enrollment-subsys/images/
